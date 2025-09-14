@@ -8,7 +8,7 @@ smtp_toaddrs = ["User <example@example.com>"]
 slack_webhook_url = ""
 
 # Telegram Token and ChatID for notification
-telegram_bot_token = "8342295581:AAGrdxcnYNqcf_3WLS9IYUrEMlEMmZpB-c8"
+telegram_bot_token = ""
 telegram_chat_id = "7155863792
 "
 
